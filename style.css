@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --bgColor: #080808;
+    --second-bg-color: #131313;
+    --main-color: #00ffee;
+}
+
+header{
+    display: flex;
+}
